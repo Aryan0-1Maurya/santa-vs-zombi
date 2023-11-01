@@ -1,0 +1,53 @@
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
+*{font-family: 'Press Start 2P', cursive;}
+
+body{
+    margin:0;
+    border:0;
+    padding:0;
+
+    background-color: black;
+
+    user-select:none;
+    touch-action: none;
+}
+
+.cnt {
+    text-align: center;
+}
+
+canvas {
+    border: 1px solid;
+    background-color: white;
+}
+
+#ui {
+    padding-top: 20%;
+    text-align: center;
+}
+
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
