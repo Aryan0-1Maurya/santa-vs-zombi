@@ -1,7 +1,7 @@
 # Santa vs Zombies
 
 <p align="center">
-  <a href="https://aryan0-1maurya.github.io//santa-vs-zombi">Click here to play this game</a>
+  <a href="https://aryan0-1maurya.github.io/santa-vs-zombi">Click here to play this game</a>
 </p>
 
 ## A thrilling holiday showdown
